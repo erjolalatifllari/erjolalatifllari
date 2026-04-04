@@ -25,8 +25,6 @@ I'm a final-year Informatics student at the University of Tirana, with a focus o
 | **Airport Database System** | SQL Server | Relational DB for managing flights, passengers, and staff |
 | **Treasure Map** | JavaScript + GIS | Interactive map app with spatial data visualization |
 | **Corporate Network** | Cisco Packet Tracer | Full network infrastructure with VLANs and IP schemes |
-| **REST API** *(in progress)* | PHP | RESTful endpoints with JSON responses |
-| **GIS Portfolio** *(in progress)* | GIS | Applied spatial analysis and mapping showcase |
 | **Car Wash Website** | HTML · CSS · JS | Responsive front-end with clean UI |
 | **Hardware Simulation** | Logisim | Logic gates, ALU, and memory components |
 

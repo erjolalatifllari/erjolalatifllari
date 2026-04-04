@@ -35,7 +35,7 @@ I'm a final-year Informatics student at the University of Tirana, with a focus o
 ## 🌍 A bit more about me
 
 - 📍 Based in Tirana, Albania
-- 🎓 Finishing my Bachelor's in Informatics in 2025
+- 🎓 Finishing my Bachelor's in Informatics in 2026
 - ✈️ Spent a summer working abroad in Germany — adaptability is something I take seriously
 - 🌐 Albanian (native) · English (professional) · German (basic)
 

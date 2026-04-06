@@ -41,4 +41,4 @@ I'm a final-year Informatics student at the University of Tirana, with a focus o
 
 ## 📫 Reach me
 
-**Email:** erilatifllari15@gmail.com
+**Email:** eri.latifllari@gmail.com

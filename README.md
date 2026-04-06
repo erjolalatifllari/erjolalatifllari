@@ -24,9 +24,9 @@ I'm a final-year Informatics student at the University of Tirana, with a focus o
 |---|---|---|
 | [**Airport Database System**](https://github.com/erjolalatifllari/airport-db) | SQL Server | Relational DB for managing flights, passengers, and staff |
 | [**Treasure Map**](https://github.com/erjolalatifllari/treasure-map-gis) | JavaScript + GIS | Interactive map app with spatial data visualization |
-| [**Corporate Network**](https://github.com/erjolalatifllari/hardware-sim-logisim-) | Cisco Packet Tracer | Full network infrastructure with VLANs and IP schemes |
+| **Corporate Network** | Cisco Packet Tracer | Full network infrastructure with VLANs and IP schemes |
 | **Car Wash Website** | HTML · CSS · JS | Responsive front-end with clean UI |
-| **Hardware Simulation** | Logisim | Logic gates, ALU, and memory components |
+| [**Hardware Simulation**](https://github.com/erjolalatifllari/hardware-sim-logisim-)| Logisim | Logic gates, ALU, and memory components |
 
 ---
 
